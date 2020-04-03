@@ -59,6 +59,14 @@ p {
 	line-height: 2;
 }
 
+p2 {
+	font-size: 13px;
+	color: #242424;
+	letter-spacing: 2;
+	line-height: 2;
+}
+
+
 img {
 	max-width: 100%;
 }
