@@ -800,12 +800,12 @@ About Page
 }
 
 .milestone h2 {
-	font-family: "Playfair Display", serif;
-	font-weight: 900;
-	font-size: 72px;
-	float: left;
-	margin-right: 15px;
-	line-height: 1;
+    font-family: "Helvetica", "Arial", Sans-Serif;
+    font-weight: 900;
+    font-size: 72px;
+    float: left;
+    margin-right: 15px;
+    line-height: 1;
 }
 
 .milestone .milestone-info {
