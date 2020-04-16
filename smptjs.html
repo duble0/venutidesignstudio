@@ -1,0 +1,16 @@
+<!doctype html>
+
+<script src="https://smtpjs.com/v3/smtp.js">
+</script>
+
+<script>
+Email.send({
+    SecureToken : "7669ed11-8f6c-4ec8-8b4e-c681e99de11b",
+    To : 'v.f.d@outlook.it',
+    From : "v.f.d@outlook.it",
+    Subject : "This is the subject",
+    Body : "And this is the body"
+}).then(
+  message => alert(message)
+);
+</script>
