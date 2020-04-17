@@ -6,10 +6,9 @@
 	<script type="text/javascript">
 		function sendEmail() {
 			Email.send({
-				Host: "smtp.gmail.com",
-				Username : "<sender’s email address>",
-				Password : "<email password>",
-				To : '<recipient’s email address>',
+				Token : "3d9b5648-0693-4df6-ac60-8c5f54275d5f"
+				To : '<v.f.d@outlook.it>',
+				Name : "<sender’s name>",
 				From : "<sender’s email address>",
 				Subject : "<email subject>",
 				Body : "<email body>",
@@ -22,6 +21,18 @@
 </head>
 <body>  
 	<form method="post">
+	<div class="row">
+		<div class="col-lg-6">
+			<input type="text" placeholder="Nome">
+		</div>
+		<div class="col-lg-6">
+			<input type="text" placeholder="E-mail">
+		</div>
+		<div class="col-lg-12">
+			<input type="text" placeholder="Oggetto">
+			<textarea placeholder="Testo"></textarea>
+			
+		<button class="site-btn"> <src="img/arrow-right.png" alt=""></button>
 		<input type="button" value="Send Email" onclick="sendEmail()"/>
 	</form>  
 </body>
