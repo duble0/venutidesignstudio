@@ -1,8 +1,10 @@
 //index.js  
 function sendEmail() {
 	Email.send({
-				Token : "2857c539-a94d-4b30-a15f-18fd410a3dcf"
-				To : '<v.f.d@outlook.it>',
+				Host : "in-v3.mailjet.com"
+				Username : "b9525b10355e66601d6474ca013716ca",
+				Password : "b72593e5f67d238b4285bd3ca4e15e21",
+				To : 'v.f.d@outlook.it',
 				Name : "<sender’s name>",
 				From : "<sender’s email address>",
 				Subject : "<email subject>",
