@@ -1,0 +1,5 @@
+require 'rubygems'
+require 'sinatra'
+require 'json'
+require 'rack/recaptcha'
+require 'pony'
