@@ -1035,11 +1035,12 @@ Contact page
 .contact-text {
 	max-width: 570px;
 	margin-bottom: 50px;
-	padding-top: 1px;
+	padding-top: 40px;
 }
 
 .contact-text h2 {
-	margin-bottom: 20px;
+	margin-top: 40px;
+	margin-bottom: 10px;
 }
 
 .contact-form {
