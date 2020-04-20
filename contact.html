@@ -105,29 +105,29 @@
 						<div class="col-xl-6">
 							<div class="contact-text-warp">
 								<div class="contact-text">
-									<h2>Scrivimi - Write me</h2>
-									<p>Scrivimi per approfondire gli argomenti o valutare, senza impegno, la fattibiltà di un lavoro o richiedere una collaborazione. I dati inviati saranno gestiti secondo G.D.P.R.
-										Write to me to learn more about the topics, evaluate the feasibility of a job, or request a collaboration.
-										The submitted data will be managed according to G.D.P.R..</p>
+									<h2>Scrivimi</h2>
+									<p>Scrivimi per approfondire gli argomenti o valutare, senza impegno, la fattibiltà di un lavoro o richiedere una collaborazione.
+									I dati inviati saranno gestiti secondo G.D.P.R.</p>
+									<h2>Write me</h2>
+									<p>Write to me to learn more about the topics, evaluate the feasibility of a job, or request a collaboration.
+									The submitted data will be managed according to G.D.P.R..</p>
 								</div>
-								
-								<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/b52f6c257497b4fafa0f8fd5e4403ab7?embedded=1"></div>
-
-<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
-								
-								<form class="contact-form">
+															
+								<form class="contact-form"  action="https://api.staticforms.xyz/submit" method="post">
 									<div class="row">
 										<div class="col-lg-6">
-											<input type="text" placeholder="Nome">
+											<input type="text" name="name" placeholder="Nome">
 										</div>
 										<div class="col-lg-6">
-											<input type="text" placeholder="E-mail">
+											<input type="text" name="email" placeholder="E-mail">
+											<input type="text" name="honeypot" style="display:none">
 										</div>
 										<div class="col-lg-12">
-											<input type="text" placeholder="Oggetto">
-											<textarea placeholder="Testo"></textarea>
-											<button class="site-btn">invia <img href="mailto:venutidesignstudio@gmail.com" src="img/arrow-right.png" alt=""></button>
+											<input type="text" name="subject" placeholder="Oggetto">
+											<textarea name="message" placeholder="Testo"></textarea>
+											<input type="hidden" name="accessKey" value="be2acb7b-dee8-467c-a567-b756efc77649">
+											<button class="site-btn" type="submit" value="Submit" >invia <src="img/arrow-right.png" alt=""></button>
+											<input type="hidden" name="redirectTo" value="https://venutidesignstudio.it">
 										</div>
 									</div>
 								</form>
