@@ -1,0 +1,137 @@
+User-agent: Googlebot
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: googlebot-image
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: googlebot-mobile
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: MSNBot
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: Slurp
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: Teoma
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: Gigabot
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: Robozilla
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: Nutch
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: ia_archiver
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: baiduspider
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: naverbot
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: yeti
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: yahoo-mmcrawler
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: psbot
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: yahoo-blogs/v3.9
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+User-agent: *
+Disallow: 
+Disallow: /git/
+Disallow: /css/
+Disallow: /icon-fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /Source/
+Sitemap: http://www.venutidesignstudio.it/sitemap.xml
