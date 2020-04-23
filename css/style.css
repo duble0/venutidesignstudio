@@ -729,7 +729,7 @@ Hero section
 	left: 0;
 	bottom: 0;
 	width: 221px;
-	padding: 10px 0 10px 0;
+	padding: 10px 0px 10px 10px;
 	background: #fff;
 	z-index: 1;
 }
