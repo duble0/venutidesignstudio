@@ -1115,8 +1115,8 @@ Responsive
 	}
 	.site-logo p {
 	font-size: 12px;
-	letter-spacing: 12x;
-	padding-left: 0px
+	letter-spacing: 5;
+	padding-left: 7px
 	}
 	.site-content-warp {
 		padding-left: 350px;
@@ -1324,8 +1324,8 @@ Responsive
 	}
 	.site-logo p {
 		font-size: 12px;
-		letter-spacing: 15.4px;
-		padding-left: 0px;
+		letter-spacing: 15px;
+		padding-left: 3px;
 	}
 	.header-social {
 		display: none;
