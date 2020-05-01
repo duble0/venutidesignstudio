@@ -1110,13 +1110,13 @@ Responsive
 		padding-left: 30px;
 	}
 	.site-logo h2 {
-		font-size: 90px;
-		line-height: 90px;
+		font-size: 50px;
+		line-height: 50px;
 	}
 	.site-logo p {
-		font-size: 12px;
-		letter-spacing: 20px;
-		padding-left: 9px;
+	font-size: 12px;
+	letter-spacing: 12.5px;
+	padding-left: 0px
 	}
 	.site-content-warp {
 		padding-left: 350px;
@@ -1242,8 +1242,11 @@ Responsive
 		height: auto;
 	}
 	.main-sidebar .mb-warp {
-		padding: 100px 15px;
-		padding-left: 50px;
+		padding: 10px 10%;
+		padding-top: 0px;
+		padding-bottom: 60px;
+		padding-right: 10%
+		padding-left: 10%;
 		max-width: 420px;
 		margin: 0 auto;
 	}
