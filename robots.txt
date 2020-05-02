@@ -23,7 +23,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: MSNBot
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -31,7 +32,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: Slurp
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -39,7 +41,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: Teoma
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html  
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -47,7 +50,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: Gigabot
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -55,7 +59,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: Robozilla
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -63,7 +68,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: Nutch
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -71,7 +77,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: ia_archiver
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -79,7 +86,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: baiduspider
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -87,7 +95,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: naverbot
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -95,7 +104,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: yeti
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -103,7 +113,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: yahoo-mmcrawler
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -111,7 +122,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: psbot
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -119,7 +131,8 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /Source/
 User-agent: yahoo-blogs/v3.9
-Disallow: 
+Disallow:
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
@@ -128,6 +141,7 @@ Disallow: /js/
 Disallow: /Source/
 User-agent: *
 Disallow: 
+Disallow: google22adc2d6842e4c7e.html 
 Disallow: /git/
 Disallow: /css/
 Disallow: /icon-fonts/
